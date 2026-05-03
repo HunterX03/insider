@@ -1,0 +1,188 @@
+{
+  "info": {
+    "symbol": "ADANIENT",
+    "companyName": "Adani Enterprises Limited",
+    "industry": "Trading - Minerals",
+    "activeSeries": [
+      "EQ",
+      "T0"
+    ],
+    "debtSeries": [],
+    "isFNOSec": true,
+    "isCASec": false,
+    "isSLBSec": true,
+    "isDebtSec": true,
+    "isSuspended": false,
+    "tempSuspendedSeries": [],
+    "isETFSec": false,
+    "isDelisted": false,
+    "isin": "INE423A01024",
+    "slb_isin": "INE423A01024",
+    "listingDate": "1997-06-04",
+    "isMunicipalBond": false,
+    "isHybridSymbol": false,
+    "isTop10": false,
+    "identifier": "ADANIENTEQN"
+  },
+  "metadata": {
+    "series": "EQ",
+    "symbol": "ADANIENT",
+    "isin": "INE423A01024",
+    "status": "Listed",
+    "listingDate": "04-Jun-1997",
+    "industry": "Trading - Minerals",
+    "lastUpdateTime": "31-Oct-2025 16:00:00",
+    "pdSectorPe": 83.63,
+    "pdSymbolPe": 70.78,
+    "pdSectorInd": "NIFTY 50",
+    "pdSectorIndAll": [
+      "NIFTY 50",
+      "NIFTY INDIA SELECT 5 CORPORATE GROUPS (MAATR)",
+      "NIFTY LARGEMIDCAP 250",
+      "NIFTY100 ESG SECTOR LEADERS",
+      "NIFTY500 MULTICAP 50:25:25",
+      "NIFTY TOTAL MARKET",
+      "NIFTY500 EQUAL WEIGHT",
+      "NIFTY100 ENHANCED ESG",
+      "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+      "NIFTY INDIA FPI 150",
+      "NIFTY100 EQUAL WEIGHT",
+      "NIFTY 500",
+      "NIFTY CONGLOMERATE 50",
+      "NIFTY100 ESG",
+      "NIFTY100 LIQUID 15",
+      "NIFTY 200",
+      "NIFTY HIGH BETA 50",
+      "NIFTY 100",
+      "NIFTY METAL",
+      "NIFTY50 EQUAL WEIGHT"
+    ]
+  },
+  "securityInfo": {
+    "boardStatus": "Main",
+    "tradingStatus": "Active",
+    "tradingSegment": "Normal Market",
+    "sessionNo": "-",
+    "slb": "Yes",
+    "classOfShare": "Equity",
+    "derivatives": "Yes",
+    "surveillance": {
+      "surv": null,
+      "desc": null
+    },
+    "faceValue": 1,
+    "issuedSize": 1154180729
+  },
+  "sddDetails": {
+    "SDDAuditor": "-",
+    "SDDStatus": "-"
+  },
+  "currentMarketType": "NM",
+  "priceInfo": {
+    "lastPrice": 2474.9,
+    "change": -52,
+    "pChange": -2.057857453797143,
+    "previousClose": 2526.9,
+    "open": 2535,
+    "close": 2481,
+    "vwap": 2506.83,
+    "stockIndClosePrice": 0,
+    "lowerCP": "2274.30",
+    "upperCP": "2779.50",
+    "pPriceBand": "No Band",
+    "basePrice": 2526.9,
+    "intraDayHighLow": {
+      "min": 2464.9,
+      "max": 2543.5,
+      "value": 2474.9
+    },
+    "weekHighLow": {
+      "min": 2025,
+      "minDate": "22-Nov-2024",
+      "max": 3070,
+      "maxDate": "06-Nov-2024",
+      "value": 2474.9
+    },
+    "iNavValue": null,
+    "checkINAV": false,
+    "tickSize": 0.1,
+    "ieq": ""
+  },
+  "industryInfo": {
+    "macro": "Commodities",
+    "sector": "Metals & Mining",
+    "industry": "Metals & Minerals Trading",
+    "basicIndustry": "Trading - Minerals"
+  },
+  "preOpenMarket": {
+    "preopen": [
+      {
+        "price": 2528,
+        "buyQty": 10,
+        "sellQty": 0
+      },
+      {
+        "price": 2528.4,
+        "buyQty": 12,
+        "sellQty": 0
+      },
+      {
+        "price": 2528.8,
+        "buyQty": 50,
+        "sellQty": 0
+      },
+      {
+        "price": 2529,
+        "buyQty": 3,
+        "sellQty": 0
+      },
+      {
+        "price": 2531,
+        "buyQty": 18,
+        "sellQty": 0
+      },
+      {
+        "price": 2535,
+        "buyQty": 0,
+        "sellQty": 1379,
+        "iep": true
+      },
+      {
+        "price": 2536,
+        "buyQty": 0,
+        "sellQty": 20
+      },
+      {
+        "price": 2536.9,
+        "buyQty": 0,
+        "sellQty": 5
+      },
+      {
+        "price": 2537.5,
+        "buyQty": 0,
+        "sellQty": 1
+      },
+      {
+        "price": 2537.7,
+        "buyQty": 0,
+        "sellQty": 170
+      }
+    ],
+    "ato": {
+      "buy": 0,
+      "sell": 0
+    },
+    "IEP": 2535,
+    "totalTradedVolume": 2773,
+    "finalPrice": 2535,
+    "finalQuantity": 2773,
+    "lastUpdateTime": "31-Oct-2025 09:07:25",
+    "totalBuyQuantity": 5519,
+    "totalSellQuantity": 23166,
+    "atoBuyQty": 0,
+    "atoSellQty": 0,
+    "Change": 8.1,
+    "perChange": 0.32,
+    "prevClose": 2526.9
+  }
+}

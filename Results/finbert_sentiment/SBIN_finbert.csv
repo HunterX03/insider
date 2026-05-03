@@ -1,0 +1,34 @@
+symbol,publishedAt,title,description,sentiment,neg,neu,pos,url
+SBIN,2025-10-29T00:13:43Z,"Database backups, dump files and restic",Some notes on converting my database backups away from intermediary dump files,negative,0.9999924,6.646675e-07,6.8677127e-06,https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/
+SBIN,2025-10-27T22:30:59Z,Linux VM Without VM Software – User Mode Linux,"Article URL: https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/
+Comments URL: https://news.ycombinator.com/item?id=45727097
+Points: 27
+# Comments: 2",negative,0.9999379,3.5040313e-05,2.7027363e-05,https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/
+SBIN,2025-10-22T11:43:06Z,A Word on Omarchy,"An in-depth look at the currently trending _Arch_ Linux configuration
+that is _Omarchy_.",negative,0.9999964,2.1009903e-06,1.3870734e-06,https://xn--gckvb8fzb.com/a-word-on-omarchy/
+SBIN,2025-10-21T13:47:00Z,"PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign","Cybersecurity researchers have shed light on the inner workings of a botnet malware called PolarEdge.
+PolarEdge was first documented by Sekoia in February 2025, attributing it to a campaign targeting routers from Cisco, ASUS, QNAP, and Synology with the goal …",negative,0.99983156,7.1240775e-06,0.00016123687,https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html
+SBIN,2025-10-21T10:48:07Z,Kolla Openstack HA,"Добрый день.
+Собрали кластер opennstack на ceph через Kolla.
+Для HA выбрали
+enable_masakari: «yes»
+enable_hacluster: «yes»
+Всё сдеплоилось без каких-то ошибок.
+Но при отключении одной ноды, инстансы на другие ноды не мигрируют.
+Настройки сегмента такие:
++----…",negative,0.99966013,0.00032302795,1.681664e-05,https://www.linux.org.ru/forum/admin/18117977
+SBIN,2025-10-20T12:34:24Z,shannot added to PyPI,Secure read-only sandboxing for LLM agents and system diagnostics,negative,0.98698634,0.012927425,8.620156e-05,https://pypi.org/project/shannot/
+SBIN,2025-10-13T23:26:07Z,Nitro: Tiny but flexible init system and process supervisor,tiny but flexible init system and process supervisor - leahneukirchen/nitro,negative,0.99992096,1.1185341e-05,6.786611e-05,https://github.com/leahneukirchen/nitro
+SBIN,2025-10-13T16:49:15Z,Environment variables are a legacy mess: Let's dive deep into them,"Programming languages have rapidly evolved in recent years. But in software development, the new often meets the old, and the scaffolding that OS gives for running new processes hasn’t changed much since Unix.
+If you need to parametrize your application at ru…",negative,0.99984956,1.2591764e-05,0.00013776043,https://allvpv.org/haotic-journey-through-envvars/
+SBIN,2025-10-11T19:41:27Z,A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS,"Article URL: https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/
+Comments URL: https://news.ycombinator.com/item?id=45552049
+Points: 3
+# Comments: 0",negative,0.9999418,4.5620494e-05,1.2537791e-05,https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/
+SBIN,2025-10-11T19:35:11Z,"Solus Linux Preparing To Remove Python 2, Big systemd Upgrade & Finish /usr Merge","The Solus Linus project is preparing for an ""epoch bump"" so they can make breaking / high-impact changes to in effect bump the binary version of their package repository...",negative,0.90593195,0.09399706,7.103203e-05,https://www.phoronix.com/news/Solus-Linux-EOY-2025-Epoch
+SBIN,2025-10-11T01:44:09Z,"John Goerzen: A Mail Delivery Mystery: Exim, systemd, setuid, and Docker, oh my!","On mail.quux, a node of NNCPNET (the NNCP-based peer-to-peer email network), I started noticing emails not being delivered. They were all in the queue, frozen, and Exim’s log had entries like:
+unable to set gid=5001 or uid=5001 (euid=100): local delivery to […",negative,0.99999654,3.3651642e-07,3.121532e-06,https://changelog.complete.org/archives/13814-a-mail-delivery-mystery-exim-systemd-setuid-and-docker-oh-my
+SBIN,2025-10-09T23:16:18Z,N8n vs. Windmill vs. Temporal,Comparing orchestration platforms for resource-constrained deployments.,negative,0.9999896,9.795146e-06,5.6443236e-07,https://blog.arcbjorn.com/workflow-automation
+SBIN,2025-10-09T11:33:17Z,Show HN: Connectcap – diagnostic CONNECT proxy that records traffic with libpcap,"Hi HN, I built connectcap, a CONNECT proxy for diagnostics.The problem I had to solve was I had a network problem only visible in one part of the internet, that had to be fixed by a cloud provider present on another part of the internet who could not see the …",positive,0.39910108,3.6270238e-05,0.6008626,https://github.com/minfrin/connectcap
+SBIN,2025-10-06T05:25:03Z,How To Configure Nginx as a Reverse Proxy on Ubuntu 22.04,"Learn how to configure Nginx as a reverse proxy on Ubuntu. Step-by-step setup with HTTPS, headers, WebSockets, and load balancing examples.",negative,0.9997489,0.00024256333,8.622167e-06,https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-as-a-reverse-proxy-on-ubuntu-22-04
+SBIN,2025-10-02T00:00:00Z,How to Install the Apache Web Server on Ubuntu,"Learn how to install Apache on Ubuntu with step-by-step commands, firewall setup, and virtual host configuration to get your site live.",negative,0.9998541,0.00014272289,3.175969e-06,https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-04

@@ -1,0 +1,631 @@
+================================================================================
+SUSPICIOUS TRADING POINTS REPORT: BAJFINANCE
+================================================================================
+
+Total Suspicious Points Detected: 22
+Analysis Period: 2024-03-05 to 2025-09-12
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #1
+--------------------------------------------------------------------------------
+Date: 2024-04-26
+Suspiciousness Score: 0.4002
+
+Price & Volume:
+  Open:   ₹692.23
+  High:   ₹692.23
+  Low:    ₹661.72
+  Close:  ₹665.65
+  Volume: 58,147,230
+  Volume Ratio: 2.87x average
+
+Key Indicators:
+  Returns: -7.73%
+  RSI: 32.72
+  Volatility: 0.0233
+  Price Gap: -4.04%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✓ FLAGGED
+
+Suspicious Patterns:
+  ⚠️ Large price gap with high volume
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #2
+--------------------------------------------------------------------------------
+Date: 2025-09-04
+Suspiciousness Score: 0.3937
+
+Price & Volume:
+  Open:   ₹915.00
+  High:   ₹948.00
+  Low:    ₹912.25
+  Close:  ₹934.75
+  Volume: 21,738,706
+  Volume Ratio: 2.52x average
+
+Key Indicators:
+  Returns: +4.29%
+  RSI: 73.24
+  Volatility: 0.0190
+  Price Gap: +2.09%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✓ FLAGGED
+
+Suspicious Patterns:
+  ⚠️ Large price gap with high volume
+  ⚠️ Extreme RSI with unusual volume
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #3
+--------------------------------------------------------------------------------
+Date: 2025-09-12
+Suspiciousness Score: 0.2989
+
+Price & Volume:
+  Open:   ₹972.25
+  High:   ₹1004.60
+  Low:    ₹970.85
+  Close:  ₹1003.25
+  Volume: 11,412,561
+  Volume Ratio: 1.62x average
+
+Key Indicators:
+  Returns: +3.40%
+  RSI: 84.45
+  Volatility: 0.0181
+  Price Gap: +0.21%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✓ FLAGGED
+
+Suspicious Patterns:
+  ⚠️ Extreme RSI with unusual volume
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #4
+--------------------------------------------------------------------------------
+Date: 2024-03-28
+Suspiciousness Score: 0.2987
+
+Price & Volume:
+  Open:   ₹695.41
+  High:   ₹726.77
+  Low:    ₹695.41
+  Close:  ₹716.48
+  Volume: 35,745,180
+  Volume Ratio: 1.80x average
+
+Key Indicators:
+  Returns: +3.17%
+  RSI: 93.61
+  Volatility: 0.0152
+  Price Gap: +0.13%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✓ FLAGGED
+
+Suspicious Patterns:
+  ⚠️ Extreme RSI with unusual volume
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #5
+--------------------------------------------------------------------------------
+Date: 2024-08-29
+Suspiciousness Score: 0.2929
+
+Price & Volume:
+  Open:   ₹684.68
+  High:   ₹711.41
+  Low:    ₹683.93
+  Close:  ₹702.02
+  Volume: 26,391,590
+  Volume Ratio: 1.87x average
+
+Key Indicators:
+  Returns: +2.37%
+  RSI: 79.49
+  Volatility: 0.0120
+  Price Gap: -0.16%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✓ FLAGGED
+
+Suspicious Patterns:
+  ⚠️ Extreme RSI with unusual volume
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #6
+--------------------------------------------------------------------------------
+Date: 2025-03-21
+Suspiciousness Score: 0.2819
+
+Price & Volume:
+  Open:   ₹898.45
+  High:   ₹903.33
+  Low:    ₹877.68
+  Close:  ₹886.14
+  Volume: 27,448,010
+  Volume Ratio: 2.31x average
+
+Key Indicators:
+  Returns: +2.72%
+  RSI: 63.62
+  Volatility: 0.0154
+  Price Gap: +4.15%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✓ FLAGGED
+
+Suspicious Patterns:
+  ⚠️ Large price gap with high volume
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #7
+--------------------------------------------------------------------------------
+Date: 2025-01-02
+Suspiciousness Score: 0.2794
+
+Price & Volume:
+  Open:   ₹693.72
+  High:   ₹738.44
+  Low:    ₹692.82
+  Close:  ₹734.39
+  Volume: 31,716,510
+  Volume Ratio: 3.02x average
+
+Key Indicators:
+  Returns: +6.54%
+  RSI: 60.37
+  Volatility: 0.0183
+  Price Gap: +0.64%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #8
+--------------------------------------------------------------------------------
+Date: 2024-07-24
+Suspiciousness Score: 0.2768
+
+Price & Volume:
+  Open:   ₹658.93
+  High:   ₹661.39
+  Low:    ₹650.09
+  Close:  ₹656.66
+  Volume: 31,006,260
+  Volume Ratio: 2.09x average
+
+Key Indicators:
+  Returns: -1.78%
+  RSI: 18.74
+  Volatility: 0.0132
+  Price Gap: -1.44%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✓ FLAGGED
+
+Suspicious Patterns:
+  ⚠️ Extreme RSI with unusual volume
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #9
+--------------------------------------------------------------------------------
+Date: 2024-07-23
+Suspiciousness Score: 0.2628
+
+Price & Volume:
+  Open:   ₹689.15
+  High:   ₹690.23
+  Low:    ₹657.94
+  Close:  ₹668.58
+  Volume: 19,322,120
+  Volume Ratio: 1.98x average
+
+Key Indicators:
+  Returns: -2.28%
+  RSI: 28.41
+  Volatility: 0.0128
+  Price Gap: +0.72%
+
+Detection Methods:
+  Isolation Forest: ✗
+  WaveLSTM:         ✓ FLAGGED
+  Pattern-Based:    ✓ FLAGGED
+
+Suspicious Patterns:
+  ⚠️ Extreme RSI with unusual volume
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #10
+--------------------------------------------------------------------------------
+Date: 2024-06-04
+Suspiciousness Score: 0.2540
+
+Price & Volume:
+  Open:   ₹683.92
+  High:   ₹683.92
+  Low:    ₹630.49
+  Close:  ₹643.73
+  Volume: 32,993,870
+  Volume Ratio: 1.80x average
+
+Key Indicators:
+  Returns: -5.87%
+  RSI: 43.32
+  Volatility: 0.0191
+  Price Gap: +0.01%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #11
+--------------------------------------------------------------------------------
+Date: 2025-07-25
+Suspiciousness Score: 0.2505
+
+Price & Volume:
+  Open:   ₹906.40
+  High:   ₹924.90
+  Low:    ₹898.00
+  Close:  ₹913.75
+  Volume: 24,415,481
+  Volume Ratio: 2.43x average
+
+Key Indicators:
+  Returns: -4.71%
+  RSI: 46.78
+  Volatility: 0.0157
+  Price Gap: -5.48%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+  ⚠️ Large price gap with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #12
+--------------------------------------------------------------------------------
+Date: 2025-04-30
+Suspiciousness Score: 0.2503
+
+Price & Volume:
+  Open:   ₹878.58
+  High:   ₹883.35
+  Low:    ₹850.35
+  Close:  ₹858.15
+  Volume: 39,690,570
+  Volume Ratio: 2.19x average
+
+Key Indicators:
+  Returns: -5.04%
+  RSI: 51.84
+  Volatility: 0.0188
+  Price Gap: -2.78%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+  ⚠️ Large price gap with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #13
+--------------------------------------------------------------------------------
+Date: 2024-05-03
+Suspiciousness Score: 0.2418
+
+Price & Volume:
+  Open:   ₹724.77
+  High:   ₹731.79
+  Low:    ₹683.03
+  Close:  ₹685.46
+  Volume: 68,186,010
+  Volume Ratio: 1.98x average
+
+Key Indicators:
+  Returns: +0.71%
+  RSI: 41.30
+  Volatility: 0.0223
+  Price Gap: +6.48%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+  ⚠️ Large price gap with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #14
+--------------------------------------------------------------------------------
+Date: 2025-06-06
+Suspiciousness Score: 0.2349
+
+Price & Volume:
+  Open:   ₹894.50
+  High:   ₹943.40
+  Low:    ₹887.60
+  Close:  ₹937.15
+  Volume: 19,783,860
+  Volume Ratio: 2.02x average
+
+Key Indicators:
+  Returns: +4.90%
+  RSI: 55.49
+  Volatility: 0.0170
+  Price Gap: +0.12%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #15
+--------------------------------------------------------------------------------
+Date: 2024-12-11
+Suspiciousness Score: 0.2342
+
+Price & Volume:
+  Open:   ₹691.72
+  High:   ₹712.11
+  Low:    ₹685.08
+  Close:  ₹707.15
+  Volume: 19,931,040
+  Volume Ratio: 1.60x average
+
+Key Indicators:
+  Returns: +2.58%
+  RSI: 77.61
+  Volatility: 0.0154
+  Price Gap: +0.34%
+
+Detection Methods:
+  Isolation Forest: ✗
+  WaveLSTM:         ✗
+  Pattern-Based:    ✓ FLAGGED
+
+Suspicious Patterns:
+  ⚠️ Extreme RSI with unusual volume
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #16
+--------------------------------------------------------------------------------
+Date: 2025-01-28
+Suspiciousness Score: 0.2247
+
+Price & Volume:
+  Open:   ₹734.47
+  High:   ₹765.95
+  Low:    ₹730.00
+  Close:  ₹756.00
+  Volume: 24,789,330
+  Volume Ratio: 2.21x average
+
+Key Indicators:
+  Returns: +4.26%
+  RSI: 57.20
+  Volatility: 0.0229
+  Price Gap: +1.30%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #17
+--------------------------------------------------------------------------------
+Date: 2025-01-30
+Suspiciousness Score: 0.2176
+
+Price & Volume:
+  Open:   ₹780.19
+  High:   ₹820.01
+  Low:    ₹780.19
+  Close:  ₹785.32
+  Volume: 56,488,830
+  Volume Ratio: 2.56x average
+
+Key Indicators:
+  Returns: +1.83%
+  RSI: 65.73
+  Volatility: 0.0185
+  Price Gap: +1.16%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #18
+--------------------------------------------------------------------------------
+Date: 2024-03-05
+Suspiciousness Score: 0.1980
+
+Price & Volume:
+  Open:   ₹652.92
+  High:   ₹656.26
+  Low:    ₹620.24
+  Close:  ₹625.41
+  Volume: 17,175,580
+  Volume Ratio: 1.63x average
+
+Key Indicators:
+  Returns: -4.21%
+  RSI: 31.50
+  Volatility: 0.0138
+  Price Gap: -0.00%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+  ⚠️ Bollinger Band breakout with high volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #19
+--------------------------------------------------------------------------------
+Date: 2025-02-03
+Suspiciousness Score: 0.1924
+
+Price & Volume:
+  Open:   ₹787.36
+  High:   ₹838.75
+  Low:    ₹787.25
+  Close:  ₹837.41
+  Volume: 43,369,260
+  Volume Ratio: 1.45x average
+
+Key Indicators:
+  Returns: +5.32%
+  RSI: 80.76
+  Volatility: 0.0215
+  Price Gap: -0.97%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✗
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #20
+--------------------------------------------------------------------------------
+Date: 2024-10-21
+Suspiciousness Score: 0.1915
+
+Price & Volume:
+  Open:   ₹686.67
+  High:   ₹690.81
+  Low:    ₹667.61
+  Close:  ₹673.93
+  Volume: 22,099,660
+  Volume Ratio: 1.77x average
+
+Key Indicators:
+  Returns: -1.72%
+  RSI: 14.64
+  Volatility: 0.0142
+  Price Gap: +0.14%
+
+Detection Methods:
+  Isolation Forest: ✗
+  WaveLSTM:         ✓ FLAGGED
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+  ⚠️ Extreme RSI with unusual volume
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #21
+--------------------------------------------------------------------------------
+Date: 2024-10-23
+Suspiciousness Score: 0.1848
+
+Price & Volume:
+  Open:   ₹656.52
+  High:   ₹705.53
+  Low:    ₹656.05
+  Close:  ₹695.29
+  Volume: 26,373,910
+  Volume Ratio: 1.65x average
+
+Key Indicators:
+  Returns: +4.76%
+  RSI: 34.95
+  Volatility: 0.0186
+  Price Gap: -1.08%
+
+Detection Methods:
+  Isolation Forest: ✓ FLAGGED
+  WaveLSTM:         ✓ FLAGGED
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+
+--------------------------------------------------------------------------------
+SUSPICIOUS POINT #22
+--------------------------------------------------------------------------------
+Date: 2025-06-09
+Suspiciousness Score: 0.1783
+
+Price & Volume:
+  Open:   ₹955.00
+  High:   ₹978.80
+  Low:    ₹940.30
+  Close:  ₹960.75
+  Volume: 23,496,010
+  Volume Ratio: 1.79x average
+
+Key Indicators:
+  Returns: +2.52%
+  RSI: 68.82
+  Volatility: 0.0151
+  Price Gap: +1.90%
+
+Detection Methods:
+  Isolation Forest: ✗
+  WaveLSTM:         ✗
+  Pattern-Based:    ✗
+
+Suspicious Patterns:
+  ⚠️ Bollinger Band breakout with high volume
+

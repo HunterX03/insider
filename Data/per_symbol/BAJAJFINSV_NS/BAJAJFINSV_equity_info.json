@@ -1,0 +1,195 @@
+{
+  "info": {
+    "symbol": "BAJAJFINSV",
+    "companyName": "Bajaj Finserv Limited",
+    "industry": "Holding Company",
+    "activeSeries": [
+      "EQ",
+      "T0"
+    ],
+    "debtSeries": [],
+    "isFNOSec": true,
+    "isCASec": false,
+    "isSLBSec": true,
+    "isDebtSec": false,
+    "isSuspended": false,
+    "tempSuspendedSeries": [],
+    "isETFSec": false,
+    "isDelisted": false,
+    "isin": "INE918I01026",
+    "slb_isin": "INE918I01026",
+    "listingDate": "2008-05-26",
+    "isMunicipalBond": false,
+    "isHybridSymbol": false,
+    "isTop10": false,
+    "identifier": "BAJAJFINSVEQN"
+  },
+  "metadata": {
+    "series": "EQ",
+    "symbol": "BAJAJFINSV",
+    "isin": "INE918I01026",
+    "status": "Listed",
+    "listingDate": "26-May-2008",
+    "industry": "Holding Company",
+    "lastUpdateTime": "31-Oct-2025 16:00:00",
+    "pdSectorPe": 18.11,
+    "pdSymbolPe": 18.11,
+    "pdSectorInd": "NIFTY 50",
+    "pdSectorIndAll": [
+      "NIFTY 50",
+      "NIFTY FINANCIAL SERVICES",
+      "NIFTY200 MOMENTUM 30",
+      "NIFTY LARGEMIDCAP 250",
+      "NIFTY FINANCIAL SERVICES 25/50",
+      "NIFTY500 MULTICAP 50:25:25",
+      "NIFTY FINANCIAL SERVICES EX-BANK",
+      "NIFTY TOTAL MARKET",
+      "NIFTY100 ENHANCED ESG",
+      "NIFTY ALPHA LOW-VOLATILITY 30",
+      "NIFTY INDIA FPI 150",
+      "NIFTY CONGLOMERATE 50",
+      "NIFTY 500",
+      "NIFTY100 ESG",
+      "NIFTY100 ALPHA 30",
+      "NIFTY100 EQUAL WEIGHT",
+      "NIFTY500 EQUAL WEIGHT",
+      "NIFTY 200",
+      "NIFTY LOW VOLATILITY 50",
+      "NIFTY 100",
+      "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+      "NIFTY SERVICES SECTOR",
+      "NIFTY500 LOW VOLATILITY 50",
+      "NIFTY500 MOMENTUM 50",
+      "NIFTY500 MULTIFACTOR MQVLV 50",
+      "NIFTY100 LOW VOLATILITY 30",
+      "NIFTY50 EQUAL WEIGHT"
+    ]
+  },
+  "securityInfo": {
+    "boardStatus": "Main",
+    "tradingStatus": "Active",
+    "tradingSegment": "Normal Market",
+    "sessionNo": "-",
+    "slb": "Yes",
+    "classOfShare": "Equity",
+    "derivatives": "Yes",
+    "surveillance": {
+      "surv": null,
+      "desc": null
+    },
+    "faceValue": 1,
+    "issuedSize": 1597813220
+  },
+  "sddDetails": {
+    "SDDAuditor": "-",
+    "SDDStatus": "-"
+  },
+  "currentMarketType": "NM",
+  "priceInfo": {
+    "lastPrice": 2090,
+    "change": -24.59999999999991,
+    "pChange": -1.163340584507704,
+    "previousClose": 2114.6,
+    "open": 2115,
+    "close": 2088.3,
+    "vwap": 2099.35,
+    "stockIndClosePrice": 0,
+    "lowerCP": "1903.20",
+    "upperCP": "2326.00",
+    "pPriceBand": "No Band",
+    "basePrice": 2114.6,
+    "intraDayHighLow": {
+      "min": 2085.4,
+      "max": 2128.9,
+      "value": 2090
+    },
+    "weekHighLow": {
+      "min": 1551.65,
+      "minDate": "24-Dec-2024",
+      "max": 2195,
+      "maxDate": "23-Oct-2025",
+      "value": 2090
+    },
+    "iNavValue": null,
+    "checkINAV": false,
+    "tickSize": 0.1,
+    "ieq": ""
+  },
+  "industryInfo": {
+    "macro": "Financial Services",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "basicIndustry": "Holding Company"
+  },
+  "preOpenMarket": {
+    "preopen": [
+      {
+        "price": 2110,
+        "buyQty": 7,
+        "sellQty": 0
+      },
+      {
+        "price": 2111,
+        "buyQty": 1,
+        "sellQty": 0
+      },
+      {
+        "price": 2112,
+        "buyQty": 29,
+        "sellQty": 0
+      },
+      {
+        "price": 2114.6,
+        "buyQty": 2103,
+        "sellQty": 0
+      },
+      {
+        "price": 2115,
+        "buyQty": 20,
+        "sellQty": 0,
+        "iep": true
+      },
+      {
+        "price": 2116.8,
+        "buyQty": 0,
+        "sellQty": 1
+      },
+      {
+        "price": 2118,
+        "buyQty": 0,
+        "sellQty": 1
+      },
+      {
+        "price": 2120,
+        "buyQty": 0,
+        "sellQty": 1
+      },
+      {
+        "price": 2120.4,
+        "buyQty": 0,
+        "sellQty": 1
+      },
+      {
+        "price": 2125,
+        "buyQty": 0,
+        "sellQty": 10
+      }
+    ],
+    "ato": {
+      "buy": 0,
+      "sell": 0
+    },
+    "IEP": 2115,
+    "totalTradedVolume": 646,
+    "finalPrice": 2115,
+    "finalQuantity": 646,
+    "lastUpdateTime": "31-Oct-2025 09:07:26",
+    "totalBuyQuantity": 9990,
+    "totalSellQuantity": 10756,
+    "atoBuyQty": 0,
+    "atoSellQty": 0,
+    "Change": 0.4,
+    "perChange": 0.02,
+    "prevClose": 2114.6
+  }
+}

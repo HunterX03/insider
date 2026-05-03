@@ -1,0 +1,9 @@
+{
+  "num_nodes": 766,
+  "num_edges": 750,
+  "num_insiders": 743,
+  "num_companies": 23,
+  "embedding_dim": 16,
+  "anomaly_method": "isolation_forest",
+  "high_risk_nodes": 30
+}

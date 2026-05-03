@@ -1,0 +1,199 @@
+{
+  "info": {
+    "symbol": "NESTLEIND",
+    "companyName": "Nestle India Limited",
+    "industry": "Packaged Foods",
+    "activeSeries": [
+      "EQ",
+      "T0"
+    ],
+    "debtSeries": [],
+    "isFNOSec": true,
+    "isCASec": false,
+    "isSLBSec": true,
+    "isDebtSec": false,
+    "isSuspended": false,
+    "tempSuspendedSeries": [],
+    "isETFSec": false,
+    "isDelisted": false,
+    "isin": "INE239A01024",
+    "slb_isin": "INE239A01024",
+    "listingDate": "2023-08-01",
+    "isMunicipalBond": false,
+    "isHybridSymbol": false,
+    "isTop10": false,
+    "identifier": "NESTLEINDEQN"
+  },
+  "metadata": {
+    "series": "EQ",
+    "symbol": "NESTLEIND",
+    "isin": "INE239A01024",
+    "status": "Listed",
+    "listingDate": "01-Aug-2023",
+    "industry": "Packaged Foods",
+    "lastUpdateTime": "31-Oct-2025 16:00:00",
+    "pdSectorPe": 82.03,
+    "pdSymbolPe": 78.5,
+    "pdSectorInd": "NIFTY 50",
+    "pdSectorIndAll": [
+      "NIFTY 50",
+      "NIFTY500 MULTICAP MOMENTUM QUALITY 50",
+      "NIFTY100 LOW VOLATILITY 30",
+      "NIFTY QUALITY LOW-VOLATILITY 30",
+      "NIFTY ALPHA QUALITY LOW-VOLATILITY 30",
+      "NIFTY50 EQUAL WEIGHT",
+      "NIFTY ALPHA QUALITY VALUE LOW-VOLATILITY 30",
+      "NIFTY200 QUALITY 30",
+      "NIFTY LARGEMIDCAP 250",
+      "NIFTY500 MULTICAP 50:25:25",
+      "NIFTY TOTAL MARKET",
+      "NIFTY500 FLEXICAP QUALITY 30",
+      "NIFTY FMCG",
+      "NIFTY500 EQUAL WEIGHT",
+      "NIFTY 500",
+      "NIFTY NON-CYCLICAL CONSUMER",
+      "NIFTY100 ENHANCED ESG",
+      "NIFTY MNC",
+      "NIFTY100 ESG",
+      "NIFTY100 EQUAL WEIGHT",
+      "NIFTY INDIA FPI 150",
+      "NIFTY INDIA CONSUMPTION",
+      "NIFTY LOW VOLATILITY 50",
+      "NIFTY 100",
+      "NIFTY50 SHARIAH",
+      "NIFTY RURAL",
+      "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+      "NIFTY 200",
+      "NIFTY500 SHARIAH",
+      "NIFTY SHARIAH 25",
+      "NIFTY100 QUALITY 30"
+    ]
+  },
+  "securityInfo": {
+    "boardStatus": "Main",
+    "tradingStatus": "Active",
+    "tradingSegment": "Normal Market",
+    "sessionNo": "-",
+    "slb": "Yes",
+    "classOfShare": "Equity",
+    "derivatives": "Yes",
+    "surveillance": {
+      "surv": null,
+      "desc": null
+    },
+    "faceValue": 1,
+    "issuedSize": 1928314320
+  },
+  "sddDetails": {
+    "SDDAuditor": "-",
+    "SDDStatus": "-"
+  },
+  "currentMarketType": "NM",
+  "priceInfo": {
+    "lastPrice": 1271.9,
+    "change": -8,
+    "pChange": -0.6250488319399953,
+    "previousClose": 1279.9,
+    "open": 1279.9,
+    "close": 1271.6,
+    "vwap": 1274.69,
+    "stockIndClosePrice": 0,
+    "lowerCP": "1152.00",
+    "upperCP": "1407.80",
+    "pPriceBand": "No Band",
+    "basePrice": 1279.9,
+    "intraDayHighLow": {
+      "min": 1269.6,
+      "max": 1284,
+      "value": 1271.9
+    },
+    "weekHighLow": {
+      "min": 1055,
+      "minDate": "05-Mar-2025",
+      "max": 1311.6,
+      "maxDate": "17-Oct-2025",
+      "value": 1271.9
+    },
+    "iNavValue": null,
+    "checkINAV": false,
+    "tickSize": 0.1,
+    "ieq": ""
+  },
+  "industryInfo": {
+    "macro": "Fast Moving Consumer Goods",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Food Products",
+    "basicIndustry": "Packaged Foods"
+  },
+  "preOpenMarket": {
+    "preopen": [
+      {
+        "price": 1276,
+        "buyQty": 10,
+        "sellQty": 0
+      },
+      {
+        "price": 1277,
+        "buyQty": 1,
+        "sellQty": 0
+      },
+      {
+        "price": 1278,
+        "buyQty": 1,
+        "sellQty": 0
+      },
+      {
+        "price": 1279,
+        "buyQty": 200,
+        "sellQty": 0
+      },
+      {
+        "price": 1279.9,
+        "buyQty": 19,
+        "sellQty": 0,
+        "iep": true
+      },
+      {
+        "price": 1280,
+        "buyQty": 0,
+        "sellQty": 57
+      },
+      {
+        "price": 1280.9,
+        "buyQty": 0,
+        "sellQty": 5
+      },
+      {
+        "price": 1281.4,
+        "buyQty": 0,
+        "sellQty": 10
+      },
+      {
+        "price": 1281.9,
+        "buyQty": 0,
+        "sellQty": 10
+      },
+      {
+        "price": 1282,
+        "buyQty": 0,
+        "sellQty": 9
+      }
+    ],
+    "ato": {
+      "buy": 0,
+      "sell": 0
+    },
+    "IEP": 1279.9,
+    "totalTradedVolume": 699,
+    "finalPrice": 1279.9,
+    "finalQuantity": 699,
+    "lastUpdateTime": "31-Oct-2025 09:07:29",
+    "totalBuyQuantity": 3838,
+    "totalSellQuantity": 31707,
+    "atoBuyQty": 0,
+    "atoSellQty": 0,
+    "Change": 0,
+    "perChange": 0,
+    "prevClose": 1279.9
+  }
+}

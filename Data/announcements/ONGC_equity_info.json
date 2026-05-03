@@ -1,0 +1,197 @@
+{
+  "info": {
+    "symbol": "ONGC",
+    "companyName": "Oil & Natural Gas Corporation Limited",
+    "industry": "Oil Exploration & Production",
+    "activeSeries": [
+      "EQ",
+      "T0"
+    ],
+    "debtSeries": [],
+    "isFNOSec": true,
+    "isCASec": false,
+    "isSLBSec": true,
+    "isDebtSec": false,
+    "isSuspended": false,
+    "tempSuspendedSeries": [],
+    "isETFSec": false,
+    "isDelisted": false,
+    "isin": "INE213A01029",
+    "slb_isin": "INE213A01029",
+    "listingDate": "1995-07-19",
+    "isMunicipalBond": false,
+    "isHybridSymbol": false,
+    "isTop10": false,
+    "identifier": "ONGCEQN"
+  },
+  "metadata": {
+    "series": "EQ",
+    "symbol": "ONGC",
+    "isin": "INE213A01029",
+    "status": "Listed",
+    "listingDate": "19-Jul-1995",
+    "industry": "Oil Exploration & Production",
+    "lastUpdateTime": "31-Oct-2025 16:00:00",
+    "pdSectorPe": 7.98,
+    "pdSymbolPe": 8,
+    "pdSectorInd": "NIFTY 50",
+    "pdSectorIndAll": [
+      "NIFTY 50",
+      "NIFTY200 VALUE 30",
+      "NIFTY50 VALUE 20",
+      "NIFTY50 EQUAL WEIGHT",
+      "NIFTY LARGEMIDCAP 250",
+      "NIFTY OIL & GAS",
+      "NIFTY500 MULTICAP 50:25:25",
+      "NIFTY TOTAL MARKET",
+      "NIFTY500 MULTICAP INFRASTRUCTURE 50:30:20",
+      "NIFTY500 EQUAL WEIGHT",
+      "NIFTY 500",
+      "NIFTY PSE",
+      "NIFTY100 ESG",
+      "NIFTY500 VALUE 50",
+      "NIFTY100 EQUAL WEIGHT",
+      "NIFTY INDIA FPI 150",
+      "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+      "NIFTY 100",
+      "NIFTY INFRASTRUCTURE",
+      "NIFTY ENERGY",
+      "NIFTY50 SHARIAH",
+      "NIFTY INDIA RAILWAYS PSU",
+      "NIFTY DIVIDEND OPPORTUNITIES 50",
+      "NIFTY 200",
+      "NIFTY COMMODITIES",
+      "NIFTY500 SHARIAH",
+      "NIFTY500 MULTIFACTOR MQVLV 50",
+      "NIFTY SHARIAH 25",
+      "NIFTY CPSE"
+    ]
+  },
+  "securityInfo": {
+    "boardStatus": "Main",
+    "tradingStatus": "Active",
+    "tradingSegment": "Normal Market",
+    "sessionNo": "-",
+    "slb": "Yes",
+    "classOfShare": "Equity",
+    "derivatives": "Yes",
+    "surveillance": {
+      "surv": null,
+      "desc": null
+    },
+    "faceValue": 5,
+    "issuedSize": 12580279206
+  },
+  "sddDetails": {
+    "SDDAuditor": "-",
+    "SDDStatus": "-"
+  },
+  "currentMarketType": "NM",
+  "priceInfo": {
+    "lastPrice": 255.79,
+    "change": 1.259999999999991,
+    "pChange": 0.4950300553962169,
+    "previousClose": 254.53,
+    "open": 254.7,
+    "close": 255.37,
+    "vwap": 255.46,
+    "stockIndClosePrice": 0,
+    "lowerCP": "229.07",
+    "upperCP": "279.98",
+    "pPriceBand": "No Band",
+    "basePrice": 254.53,
+    "intraDayHighLow": {
+      "min": 253.32,
+      "max": 257.9,
+      "value": 255.79
+    },
+    "weekHighLow": {
+      "min": 205,
+      "minDate": "07-Apr-2025",
+      "max": 274.35,
+      "maxDate": "04-Nov-2024",
+      "value": 255.79
+    },
+    "iNavValue": null,
+    "checkINAV": false,
+    "tickSize": 0.01,
+    "ieq": ""
+  },
+  "industryInfo": {
+    "macro": "Energy",
+    "sector": "Oil Gas & Consumable Fuels",
+    "industry": "Oil",
+    "basicIndustry": "Oil Exploration & Production"
+  },
+  "preOpenMarket": {
+    "preopen": [
+      {
+        "price": 254.45,
+        "buyQty": 3,
+        "sellQty": 0
+      },
+      {
+        "price": 254.5,
+        "buyQty": 553,
+        "sellQty": 0
+      },
+      {
+        "price": 254.53,
+        "buyQty": 1027,
+        "sellQty": 0
+      },
+      {
+        "price": 254.55,
+        "buyQty": 8,
+        "sellQty": 0
+      },
+      {
+        "price": 254.7,
+        "buyQty": 584,
+        "sellQty": 0,
+        "iep": true
+      },
+      {
+        "price": 254.75,
+        "buyQty": 0,
+        "sellQty": 50
+      },
+      {
+        "price": 254.9,
+        "buyQty": 0,
+        "sellQty": 100
+      },
+      {
+        "price": 254.99,
+        "buyQty": 0,
+        "sellQty": 25
+      },
+      {
+        "price": 255,
+        "buyQty": 0,
+        "sellQty": 969
+      },
+      {
+        "price": 255.05,
+        "buyQty": 0,
+        "sellQty": 200
+      }
+    ],
+    "ato": {
+      "buy": 0,
+      "sell": 0
+    },
+    "IEP": 254.7,
+    "totalTradedVolume": 12826,
+    "finalPrice": 254.7,
+    "finalQuantity": 12826,
+    "lastUpdateTime": "31-Oct-2025 09:07:24",
+    "totalBuyQuantity": 85200,
+    "totalSellQuantity": 292890,
+    "atoBuyQty": 0,
+    "atoSellQty": 0,
+    "Change": 0.17,
+    "perChange": 0.07,
+    "prevClose": 254.53
+  }
+}

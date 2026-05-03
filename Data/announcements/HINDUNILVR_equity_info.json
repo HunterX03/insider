@@ -1,0 +1,203 @@
+{
+  "info": {
+    "symbol": "HINDUNILVR",
+    "companyName": "Hindustan Unilever Limited",
+    "industry": "Diversified FMCG",
+    "activeSeries": [
+      "EQ",
+      "T0"
+    ],
+    "debtSeries": [],
+    "isFNOSec": true,
+    "isCASec": false,
+    "isSLBSec": true,
+    "isDebtSec": false,
+    "isSuspended": false,
+    "tempSuspendedSeries": [],
+    "isETFSec": false,
+    "isDelisted": false,
+    "isin": "INE030A01027",
+    "slb_isin": "INE030A01027",
+    "listingDate": "1995-07-06",
+    "isMunicipalBond": false,
+    "isHybridSymbol": false,
+    "isTop10": false,
+    "identifier": "HINDUNILVREQN"
+  },
+  "metadata": {
+    "series": "EQ",
+    "symbol": "HINDUNILVR",
+    "isin": "INE030A01027",
+    "status": "Listed",
+    "listingDate": "06-Jul-1995",
+    "industry": "Diversified FMCG",
+    "lastUpdateTime": "31-Oct-2025 16:00:00",
+    "pdSectorPe": 54.36,
+    "pdSymbolPe": 53.56,
+    "pdSectorInd": "NIFTY 50",
+    "pdSectorIndAll": [
+      "NIFTY 50",
+      "NIFTY500 SHARIAH",
+      "NIFTY100 QUALITY 30",
+      "NIFTY100 LOW VOLATILITY 30",
+      "NIFTY QUALITY LOW-VOLATILITY 30",
+      "NIFTY50 EQUAL WEIGHT",
+      "NIFTY ALPHA QUALITY VALUE LOW-VOLATILITY 30",
+      "NIFTY200 QUALITY 30",
+      "NIFTY ALPHA QUALITY LOW-VOLATILITY 30",
+      "NIFTY LARGEMIDCAP 250",
+      "NIFTY100 ESG SECTOR LEADERS",
+      "NIFTY500 MULTICAP 50:25:25",
+      "NIFTY TOTAL MARKET",
+      "NIFTY500 FLEXICAP QUALITY 30",
+      "NIFTY FMCG",
+      "NIFTY500 EQUAL WEIGHT",
+      "NIFTY NON-CYCLICAL CONSUMER",
+      "NIFTY100 ENHANCED ESG",
+      "NIFTY INDIA FPI 150",
+      "NIFTY 500",
+      "NIFTY MNC",
+      "NIFTY100 ESG",
+      "NIFTY100 EQUAL WEIGHT",
+      "NIFTY 200",
+      "NIFTY INDIA CONSUMPTION",
+      "NIFTY LOW VOLATILITY 50",
+      "NIFTY 100",
+      "NIFTY50 SHARIAH",
+      "NIFTY TOP 15 EQUAL WEIGHT",
+      "NIFTY TOP 20 EQUAL WEIGHT",
+      "NIFTY RURAL",
+      "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+      "NIFTY DIVIDEND OPPORTUNITIES 50",
+      "NIFTY SHARIAH 25",
+      "NIFTY GROWTH SECTORS 15"
+    ]
+  },
+  "securityInfo": {
+    "boardStatus": "Main",
+    "tradingStatus": "Active",
+    "tradingSegment": "Normal Market",
+    "sessionNo": "-",
+    "slb": "Yes",
+    "classOfShare": "Equity",
+    "derivatives": "Yes",
+    "surveillance": {
+      "surv": null,
+      "desc": null
+    },
+    "faceValue": 1,
+    "issuedSize": 2349591262
+  },
+  "sddDetails": {
+    "SDDAuditor": "-",
+    "SDDStatus": "-"
+  },
+  "currentMarketType": "NM",
+  "priceInfo": {
+    "lastPrice": 2461.2,
+    "change": -8.400000000000091,
+    "pChange": -0.3401360544217724,
+    "previousClose": 2469.6,
+    "open": 2469,
+    "close": 2465.5,
+    "vwap": 2464.42,
+    "stockIndClosePrice": 0,
+    "lowerCP": "2222.70",
+    "upperCP": "2716.50",
+    "pPriceBand": "No Band",
+    "basePrice": 2469.6,
+    "intraDayHighLow": {
+      "min": 2452.9,
+      "max": 2479.5,
+      "value": 2461.2
+    },
+    "weekHighLow": {
+      "min": 2136,
+      "minDate": "04-Mar-2025",
+      "max": 2750,
+      "maxDate": "04-Sep-2025",
+      "value": 2461.2
+    },
+    "iNavValue": null,
+    "checkINAV": false,
+    "tickSize": 0.1,
+    "ieq": ""
+  },
+  "industryInfo": {
+    "macro": "Fast Moving Consumer Goods",
+    "sector": "Fast Moving Consumer Goods",
+    "industry": "Diversified FMCG",
+    "basicIndustry": "Diversified FMCG"
+  },
+  "preOpenMarket": {
+    "preopen": [
+      {
+        "price": 2465.1,
+        "buyQty": 50,
+        "sellQty": 0
+      },
+      {
+        "price": 2466,
+        "buyQty": 101,
+        "sellQty": 0
+      },
+      {
+        "price": 2466.5,
+        "buyQty": 20,
+        "sellQty": 0
+      },
+      {
+        "price": 2467,
+        "buyQty": 9,
+        "sellQty": 0
+      },
+      {
+        "price": 2469,
+        "buyQty": 54,
+        "sellQty": 0,
+        "iep": true
+      },
+      {
+        "price": 2469.6,
+        "buyQty": 0,
+        "sellQty": 56
+      },
+      {
+        "price": 2470,
+        "buyQty": 0,
+        "sellQty": 26
+      },
+      {
+        "price": 2470.8,
+        "buyQty": 0,
+        "sellQty": 3
+      },
+      {
+        "price": 2474.6,
+        "buyQty": 0,
+        "sellQty": 1
+      },
+      {
+        "price": 2474.9,
+        "buyQty": 0,
+        "sellQty": 3
+      }
+    ],
+    "ato": {
+      "buy": 0,
+      "sell": 0
+    },
+    "IEP": 2469,
+    "totalTradedVolume": 3988,
+    "finalPrice": 2469,
+    "finalQuantity": 3988,
+    "lastUpdateTime": "31-Oct-2025 09:07:32",
+    "totalBuyQuantity": 12120,
+    "totalSellQuantity": 28977,
+    "atoBuyQty": 0,
+    "atoSellQty": 0,
+    "Change": -0.6,
+    "perChange": -0.02,
+    "prevClose": 2469.6
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "info": {
+    "symbol": "SHRIRAMFIN",
+    "companyName": "Shriram Finance Limited",
+    "industry": "Non Banking Financial Company (NBFC)",
+    "activeSeries": [
+      "EQ",
+      "T0"
+    ],
+    "debtSeries": [],
+    "isFNOSec": true,
+    "isCASec": false,
+    "isSLBSec": true,
+    "isDebtSec": true,
+    "isSuspended": false,
+    "tempSuspendedSeries": [
+      "NM",
+      "NN",
+      "NO",
+      "NP",
+      "NQ",
+      "NR",
+      "NS",
+      "NT",
+      "NU",
+      "NV",
+      "NW",
+      "NX",
+      "NY",
+      "NZ",
+      "Y1",
+      "Y2",
+      "Y3",
+      "Y4",
+      "Y5",
+      "Y6",
+      "Y7",
+      "Y8",
+      "Y9",
+      "YA",
+      "YB",
+      "YC",
+      "YD",
+      "YG",
+      "YH",
+      "YJ",
+      "YK",
+      "YM",
+      "YN",
+      "YO",
+      "YQ",
+      "YR",
+      "YT",
+      "YU",
+      "YV",
+      "YX",
+      "YY",
+      "Z1",
+      "Z2",
+      "Z3",
+      "Z6",
+      "Z7",
+      "ZA",
+      "ZD",
+      "ZG",
+      "ZJ",
+      "N1",
+      "N2",
+      "N3",
+      "N4",
+      "N5",
+      "N6",
+      "N7",
+      "N8",
+      "N9",
+      "NA",
+      "NB",
+      "NC",
+      "ND",
+      "NE",
+      "NF",
+      "NG",
+      "NH",
+      "NI",
+      "NJ",
+      "NK",
+      "NL"
+    ],
+    "isETFSec": false,
+    "isDelisted": false,
+    "isin": "INE721A01047",
+    "slb_isin": "INE721A01047",
+    "listingDate": "1996-12-11",
+    "isMunicipalBond": false,
+    "isHybridSymbol": false,
+    "isTop10": false,
+    "identifier": "SHRIRAMFINEQN"
+  },
+  "metadata": {
+    "series": "EQ",
+    "symbol": "SHRIRAMFIN",
+    "isin": "INE721A01047",
+    "status": "Listed",
+    "listingDate": "11-Dec-1996",
+    "industry": "Non Banking Financial Company (NBFC)",
+    "lastUpdateTime": "31-Oct-2025 16:00:00",
+    "pdSectorPe": 16.33,
+    "pdSymbolPe": 14.47,
+    "pdSectorInd": "NIFTY 50",
+    "pdSectorIndAll": [
+      "NIFTY 50",
+      "NIFTY FINANCIAL SERVICES",
+      "NIFTY FINANCIAL SERVICES 25/50",
+      "NIFTY100 ESG SECTOR LEADERS",
+      "NIFTY500 MULTICAP 50:25:25",
+      "NIFTY FINANCIAL SERVICES EX-BANK",
+      "NIFTY TOTAL MARKET",
+      "NIFTY500 EQUAL WEIGHT",
+      "NIFTY SERVICES SECTOR",
+      "NIFTY HIGH BETA 50",
+      "NIFTY 200",
+      "NIFTY 100",
+      "NIFTY200 VALUE 30",
+      "NIFTY RURAL",
+      "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+      "NIFTY DIVIDEND OPPORTUNITIES 50",
+      "NIFTY100 ENHANCED ESG",
+      "NIFTY 500",
+      "NIFTY100 ESG",
+      "NIFTY100 EQUAL WEIGHT",
+      "NIFTY INDIA FPI 150",
+      "NIFTY100 LIQUID 15",
+      "NIFTY50 EQUAL WEIGHT",
+      "NIFTY LARGEMIDCAP 250"
+    ]
+  },
+  "securityInfo": {
+    "boardStatus": "Main",
+    "tradingStatus": "Active",
+    "tradingSegment": "Normal Market",
+    "sessionNo": "-",
+    "slb": "Yes",
+    "classOfShare": "Equity",
+    "derivatives": "Yes",
+    "surveillance": {
+      "surv": null,
+      "desc": null
+    },
+    "faceValue": 2,
+    "issuedSize": 1881108190
+  },
+  "sddDetails": {
+    "SDDAuditor": "-",
+    "SDDStatus": "-"
+  },
+  "currentMarketType": "NM",
+  "priceInfo": {
+    "lastPrice": 751.4,
+    "change": 13.149999999999977,
+    "pChange": 1.7812394175414803,
+    "previousClose": 738.25,
+    "open": 733.45,
+    "close": 748.9,
+    "vwap": 747.37,
+    "stockIndClosePrice": 0,
+    "lowerCP": "664.45",
+    "upperCP": "812.05",
+    "pPriceBand": "No Band",
+    "basePrice": 738.25,
+    "intraDayHighLow": {
+      "min": 727,
+      "max": 769.8,
+      "value": 751.4
+    },
+    "weekHighLow": {
+      "min": 493.35,
+      "minDate": "20-Jan-2025",
+      "max": 769.8,
+      "maxDate": "31-Oct-2025",
+      "value": 751.4
+    },
+    "iNavValue": null,
+    "checkINAV": false,
+    "tickSize": 0.05,
+    "ieq": ""
+  },
+  "industryInfo": {
+    "macro": "Financial Services",
+    "sector": "Financial Services",
+    "industry": "Finance",
+    "basicIndustry": "Non Banking Financial Company (NBFC)"
+  },
+  "preOpenMarket": {
+    "preopen": [
+      {
+        "price": 732.7,
+        "buyQty": 125,
+        "sellQty": 0
+      },
+      {
+        "price": 733,
+        "buyQty": 3034,
+        "sellQty": 0
+      },
+      {
+        "price": 733.15,
+        "buyQty": 6,
+        "sellQty": 0
+      },
+      {
+        "price": 733.4,
+        "buyQty": 1,
+        "sellQty": 0
+      },
+      {
+        "price": 733.45,
+        "buyQty": 192,
+        "sellQty": 0,
+        "iep": true
+      },
+      {
+        "price": 734,
+        "buyQty": 0,
+        "sellQty": 43
+      },
+      {
+        "price": 734.6,
+        "buyQty": 0,
+        "sellQty": 2
+      },
+      {
+        "price": 734.7,
+        "buyQty": 0,
+        "sellQty": 162
+      },
+      {
+        "price": 735,
+        "buyQty": 0,
+        "sellQty": 650
+      },
+      {
+        "price": 735.25,
+        "buyQty": 0,
+        "sellQty": 25
+      }
+    ],
+    "ato": {
+      "buy": 0,
+      "sell": 0
+    },
+    "IEP": 733.45,
+    "totalTradedVolume": 38889,
+    "finalPrice": 733.45,
+    "finalQuantity": 38889,
+    "lastUpdateTime": "31-Oct-2025 09:07:28",
+    "totalBuyQuantity": 40101,
+    "totalSellQuantity": 106420,
+    "atoBuyQty": 0,
+    "atoSellQty": 0,
+    "Change": -4.8,
+    "perChange": -0.65,
+    "prevClose": 738.25
+  }
+}

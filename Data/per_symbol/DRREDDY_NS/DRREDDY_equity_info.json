@@ -1,0 +1,203 @@
+{
+  "info": {
+    "symbol": "DRREDDY",
+    "companyName": "Dr. Reddy's Laboratories Limited",
+    "industry": "Pharmaceuticals",
+    "activeSeries": [
+      "EQ",
+      "T0"
+    ],
+    "debtSeries": [],
+    "isFNOSec": true,
+    "isCASec": false,
+    "isSLBSec": true,
+    "isDebtSec": false,
+    "isSuspended": false,
+    "tempSuspendedSeries": [
+      "N1"
+    ],
+    "isETFSec": false,
+    "isDelisted": false,
+    "isin": "INE089A01031",
+    "slb_isin": "INE089A01031",
+    "listingDate": "2003-05-30",
+    "isMunicipalBond": false,
+    "isHybridSymbol": false,
+    "isTop10": false,
+    "identifier": "DRREDDYEQN"
+  },
+  "metadata": {
+    "series": "EQ",
+    "symbol": "DRREDDY",
+    "isin": "INE089A01031",
+    "status": "Listed",
+    "listingDate": "30-May-2003",
+    "industry": "Pharmaceuticals",
+    "lastUpdateTime": "31-Oct-2025 16:00:00",
+    "pdSectorPe": 17.52,
+    "pdSymbolPe": 17.52,
+    "pdSectorInd": "NIFTY 50",
+    "pdSectorIndAll": [
+      "NIFTY 50",
+      "NIFTY500 LOW VOLATILITY 50",
+      "NIFTY50 VALUE 20",
+      "NIFTY100 LOW VOLATILITY 30",
+      "NIFTY QUALITY LOW-VOLATILITY 30",
+      "NIFTY ALPHA QUALITY LOW-VOLATILITY 30",
+      "NIFTY50 EQUAL WEIGHT",
+      "NIFTY LARGEMIDCAP 250",
+      "NIFTY INDIA MANUFACTURING",
+      "NIFTY ALPHA QUALITY VALUE LOW-VOLATILITY 30",
+      "NIFTY100 ESG SECTOR LEADERS",
+      "NIFTY HEALTHCARE INDEX",
+      "NIFTY500 MULTICAP 50:25:25",
+      "NIFTY TOTAL MARKET",
+      "NIFTY500 EQUAL WEIGHT",
+      "NIFTY500 HEALTHCARE",
+      "NIFTY100 ENHANCED ESG",
+      "NIFTY100 EQUAL WEIGHT",
+      "NIFTY INDIA FPI 150",
+      "NIFTY100 ESG",
+      "NIFTY500 MULTICAP INDIA MANUFACTURING 50:30:20",
+      "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+      "NIFTY ALPHA LOW-VOLATILITY 30",
+      "NIFTY 500",
+      "NIFTY LOW VOLATILITY 50",
+      "NIFTY 200",
+      "NIFTY500 SHARIAH",
+      "NIFTY50 SHARIAH",
+      "NIFTY500 MULTIFACTOR MQVLV 50",
+      "NIFTY PHARMA",
+      "NIFTY 100",
+      "NIFTY SHARIAH 25",
+      "NIFTY100 QUALITY 30"
+    ]
+  },
+  "securityInfo": {
+    "boardStatus": "Main",
+    "tradingStatus": "Active",
+    "tradingSegment": "Normal Market",
+    "sessionNo": "-",
+    "slb": "Yes",
+    "classOfShare": "Equity",
+    "derivatives": "Yes",
+    "surveillance": {
+      "surv": null,
+      "desc": null
+    },
+    "faceValue": 1,
+    "issuedSize": 834613760
+  },
+  "sddDetails": {
+    "SDDAuditor": "-",
+    "SDDStatus": "-"
+  },
+  "currentMarketType": "NM",
+  "priceInfo": {
+    "lastPrice": 1198,
+    "change": -4.2000000000000455,
+    "pChange": -0.34935950756945977,
+    "previousClose": 1202.2,
+    "open": 1202.5,
+    "close": 1197.6,
+    "vwap": 1196.32,
+    "stockIndClosePrice": 0,
+    "lowerCP": "1082.00",
+    "upperCP": "1322.40",
+    "pPriceBand": "No Band",
+    "basePrice": 1202.2,
+    "intraDayHighLow": {
+      "min": 1191,
+      "max": 1205.5,
+      "value": 1198
+    },
+    "weekHighLow": {
+      "min": 1020,
+      "minDate": "07-Apr-2025",
+      "max": 1405.9,
+      "maxDate": "08-Jan-2025",
+      "value": 1198
+    },
+    "iNavValue": null,
+    "checkINAV": false,
+    "tickSize": 0.1,
+    "ieq": ""
+  },
+  "industryInfo": {
+    "macro": "Healthcare",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals & Biotechnology",
+    "basicIndustry": "Pharmaceuticals"
+  },
+  "preOpenMarket": {
+    "preopen": [
+      {
+        "price": 1202.1,
+        "buyQty": 4,
+        "sellQty": 0
+      },
+      {
+        "price": 1202.2,
+        "buyQty": 2955,
+        "sellQty": 0
+      },
+      {
+        "price": 1202.3,
+        "buyQty": 151,
+        "sellQty": 0
+      },
+      {
+        "price": 1202.4,
+        "buyQty": 55,
+        "sellQty": 0
+      },
+      {
+        "price": 1202.5,
+        "buyQty": 105,
+        "sellQty": 0,
+        "iep": true
+      },
+      {
+        "price": 1203,
+        "buyQty": 0,
+        "sellQty": 500
+      },
+      {
+        "price": 1203.5,
+        "buyQty": 0,
+        "sellQty": 11
+      },
+      {
+        "price": 1204,
+        "buyQty": 0,
+        "sellQty": 50
+      },
+      {
+        "price": 1205,
+        "buyQty": 0,
+        "sellQty": 226
+      },
+      {
+        "price": 1207,
+        "buyQty": 0,
+        "sellQty": 50
+      }
+    ],
+    "ato": {
+      "buy": 0,
+      "sell": 0
+    },
+    "IEP": 1202.5,
+    "totalTradedVolume": 7208,
+    "finalPrice": 1202.5,
+    "finalQuantity": 7208,
+    "lastUpdateTime": "31-Oct-2025 09:07:24",
+    "totalBuyQuantity": 45989,
+    "totalSellQuantity": 46894,
+    "atoBuyQty": 0,
+    "atoSellQty": 0,
+    "Change": 0.3,
+    "perChange": 0.02,
+    "prevClose": 1202.2
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "info": {
+    "symbol": "LT",
+    "companyName": "Larsen & Toubro Limited",
+    "industry": "Civil Construction",
+    "activeSeries": [
+      "EQ"
+    ],
+    "debtSeries": [],
+    "isFNOSec": true,
+    "isCASec": false,
+    "isSLBSec": true,
+    "isDebtSec": true,
+    "isSuspended": false,
+    "tempSuspendedSeries": [],
+    "isETFSec": false,
+    "isDelisted": false,
+    "isin": "INE018A01030",
+    "slb_isin": "INE018A01030",
+    "listingDate": "2004-06-23",
+    "isMunicipalBond": false,
+    "isHybridSymbol": false,
+    "isTop10": false,
+    "identifier": "LTEQN"
+  },
+  "metadata": {
+    "series": "EQ",
+    "symbol": "LT",
+    "isin": "INE018A01030",
+    "status": "Listed",
+    "listingDate": "23-Jun-2004",
+    "industry": "Civil Construction",
+    "lastUpdateTime": "31-Oct-2025 16:00:00",
+    "pdSectorPe": 30.13,
+    "pdSymbolPe": 29.53,
+    "pdSectorInd": "NIFTY 50",
+    "pdSectorIndAll": [
+      "NIFTY 50",
+      "NIFTY 100",
+      "NIFTY LARGEMIDCAP 250",
+      "NIFTY500 MULTICAP 50:25:25",
+      "NIFTY TOTAL MARKET",
+      "NIFTY HOUSING",
+      "NIFTY500 MULTICAP INFRASTRUCTURE 50:30:20",
+      "NIFTY500 EQUAL WEIGHT",
+      "NIFTY 500",
+      "NIFTY100 EQUAL WEIGHT",
+      "NIFTY CONGLOMERATE 50",
+      "NIFTY INDIA FPI 150",
+      "NIFTY INDIA INFRASTRUCTURE & LOGISTICS",
+      "NIFTY LOW VOLATILITY 50",
+      "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+      "NIFTY INFRASTRUCTURE",
+      "NIFTY TOP 10 EQUAL WEIGHT",
+      "NIFTY TOP 15 EQUAL WEIGHT",
+      "NIFTY TOP 20 EQUAL WEIGHT",
+      "NIFTY 200",
+      "NIFTY100 LOW VOLATILITY 30",
+      "NIFTY50 EQUAL WEIGHT"
+    ]
+  },
+  "securityInfo": {
+    "boardStatus": "Main",
+    "tradingStatus": "Active",
+    "tradingSegment": "Normal Market",
+    "sessionNo": "-",
+    "slb": "Yes",
+    "classOfShare": "Equity",
+    "derivatives": "Yes",
+    "surveillance": {
+      "surv": null,
+      "desc": null
+    },
+    "faceValue": 2,
+    "issuedSize": 1375556003
+  },
+  "sddDetails": {
+    "SDDAuditor": "-",
+    "SDDStatus": "-"
+  },
+  "currentMarketType": "NM",
+  "priceInfo": {
+    "lastPrice": 4028,
+    "change": 40.5,
+    "pChange": 1.0156739811912225,
+    "previousClose": 3987.5,
+    "open": 4001.1,
+    "close": 4030.9,
+    "vwap": 4024.91,
+    "stockIndClosePrice": 0,
+    "lowerCP": "3588.80",
+    "upperCP": "4386.20",
+    "pPriceBand": "No Band",
+    "basePrice": 3987.5,
+    "intraDayHighLow": {
+      "min": 3980.2,
+      "max": 4045.9,
+      "value": 4028
+    },
+    "weekHighLow": {
+      "min": 2965.3,
+      "minDate": "07-Apr-2025",
+      "max": 4062.6,
+      "maxDate": "30-Oct-2025",
+      "value": 4028
+    },
+    "iNavValue": null,
+    "checkINAV": false,
+    "tickSize": 0.1,
+    "ieq": ""
+  },
+  "industryInfo": {
+    "macro": "Industrials",
+    "sector": "Construction",
+    "industry": "Construction",
+    "basicIndustry": "Civil Construction"
+  },
+  "preOpenMarket": {
+    "preopen": [
+      {
+        "price": 3996,
+        "buyQty": 6,
+        "sellQty": 0
+      },
+      {
+        "price": 3998,
+        "buyQty": 101,
+        "sellQty": 0
+      },
+      {
+        "price": 4000,
+        "buyQty": 87,
+        "sellQty": 0
+      },
+      {
+        "price": 4001,
+        "buyQty": 34,
+        "sellQty": 0
+      },
+      {
+        "price": 4001.1,
+        "buyQty": 18,
+        "sellQty": 0,
+        "iep": true
+      },
+      {
+        "price": 4001.4,
+        "buyQty": 0,
+        "sellQty": 50
+      },
+      {
+        "price": 4002.9,
+        "buyQty": 0,
+        "sellQty": 5
+      },
+      {
+        "price": 4004,
+        "buyQty": 0,
+        "sellQty": 5
+      },
+      {
+        "price": 4004.9,
+        "buyQty": 0,
+        "sellQty": 4
+      },
+      {
+        "price": 4005,
+        "buyQty": 0,
+        "sellQty": 53
+      }
+    ],
+    "ato": {
+      "buy": 0,
+      "sell": 0
+    },
+    "IEP": 4001.1,
+    "totalTradedVolume": 2340,
+    "finalPrice": 4001.1,
+    "finalQuantity": 2340,
+    "lastUpdateTime": "31-Oct-2025 09:07:25",
+    "totalBuyQuantity": 15464,
+    "totalSellQuantity": 53257,
+    "atoBuyQty": 0,
+    "atoSellQty": 0,
+    "Change": 13.6,
+    "perChange": 0.34,
+    "prevClose": 3987.5
+  }
+}
